@@ -18,3 +18,5 @@ Features should be developed on branches.  To create and switch to a branch, use
 To switch to an existing branch, use
 
 'git switch branch_name'
+
+I added this from GitHub
